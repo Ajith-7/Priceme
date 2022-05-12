@@ -20,8 +20,11 @@ public class LanguageInfo {
 	percentage.englishLanguage_South();
 	percentage.hindiLanguage();
 	
-	//fghjk
+    System.out.println("Truth never Dies");
+
+    //fghjk
 	//sdfghj
-	
+
+
 }
 }
